@@ -13,8 +13,10 @@ h1 {
 
 footer, a{
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family: "Shadows Into Light", sans-serif;
+  letter-spacing: .5em;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .w {
